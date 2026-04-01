@@ -1,0 +1,19 @@
+{
+  "name": "Calvin — Dukan",
+  "short_name": "Calvin Dukan",
+  "description": "Le programme Dukan de Calvin",
+  "start_url": "/dukan-conjoint/",
+  "scope": "/dukan-conjoint/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08101e",
+  "theme_color": "#08101e",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
